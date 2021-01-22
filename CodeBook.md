@@ -1,5 +1,4 @@
 #CodeBook.md
-#Aspasia Christofili
 #Getting and Cleaning Data
 
 ## Libraries Required
