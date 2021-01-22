@@ -1,4 +1,4 @@
-#run_analysis.R
+#Run_Analysis.R
 #Aspasia Christofili
 #Getting and Cleaning Data
 #install.packages("dplyr")
