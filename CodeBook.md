@@ -14,15 +14,15 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 The sensor signals (accelerometer and gyroscope) were pre-processed by applying noise filters and then sampled in fixed-width sliding windows of 2.56 sec and 50% overlap (128 readings/window). The sensor acceleration signal, which has gravitational and body motion components, was separated using a Butterworth low-pass filter into body acceleration and gravity. The gravitational force is assumed to have only low frequency components, therefore a filter with 0.3 Hz cutoff frequency was used. From each window, a vector of features was obtained by calculating variables from the time and frequency domain.
 
 ##The data
-The dataset includes the following files (some of which are currently too large to upload to this Github repository):
-'README.txt'
-'features_info.txt': Shows information about the variables used on the feature vector
-'features.txt': Lists all features
-'activity_labels.txt': Links class labels with activity name
-'train/X_train.txt': Training set
-'train/y_train.txt': Training labels
-'test/X_test.txt': Test set
-'test/y_test.txt': Test labels
+##The dataset includes the following files (some of which are currently too large to upload to this Github repository):
+##'README.txt'
+##'features_info.txt': Shows information about the variables used on the feature vector
+##'features.txt': Lists all features
+##'activity_labels.txt': Links class labels with activity name
+##'train/X_train.txt': Training set
+##'train/y_train.txt': Training labels
+##'test/X_test.txt': Test set
+##'test/y_test.txt': Test labels
 
 ##The following files are available for the train and test data. Their descriptions are equivalent.
 'train/subject_train.txt': Each row identifies the subject that performed the activity for each window sample. Range: 1-30
