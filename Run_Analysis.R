@@ -1,6 +1,6 @@
 #Run_Analysis.R
-#Aspasia Christofili
 #Getting and Cleaning Data
+
 #install.packages("dplyr")
 #install.packages("data.table")
 #Load packages
