@@ -1,3 +1,7 @@
+#CodeBook.md
+#Aspasia Christofili
+#Getting and Cleaning Data
+
 ## Libraries Required
 reshape2, dplyr, data.table
 
